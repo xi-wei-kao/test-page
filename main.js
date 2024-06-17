@@ -13,3 +13,7 @@ myButton.addEventListener('click', function(event) {
             <div>${Math.random()}</div>
         `)
 });
+
+
+const jqery1 = $("#my-button")
+console.log("jqery1 = ", jqery1);
