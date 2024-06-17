@@ -17,3 +17,4 @@ myButton.addEventListener('click', function(event) {
 
 const jqery1 = $("#my-button")
 console.log("jqery1 = ", jqery1);
+
